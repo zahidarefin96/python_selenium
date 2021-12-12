@@ -1,0 +1,13 @@
+2021-11-05 11:53:17,723 :INFO : test_logging :Information statement
+2021-11-05 11:53:17,723 :WARNING : test_logging :Something is in warning mode
+2021-11-05 11:53:17,723 :ERROR : test_logging :A major error is encountered
+2021-11-05 11:53:17,733 :CRITICAL : test_logging :Critical error is encountered
+2021-11-05 11:55:15,683 :DEBUG : test_logging :A debug statement is executed
+2021-11-05 11:55:15,683 :INFO : test_logging :Information statement
+2021-11-05 11:55:15,683 :WARNING : test_logging :Something is in warning mode
+2021-11-05 11:55:15,683 :ERROR : test_logging :A major error is encountered
+2021-11-05 11:55:15,683 :CRITICAL : test_logging :Critical error is encountered
+2021-11-05 13:17:19,059 :INFO : end2end_framework.pytest_learning.base_class :dataLoad[0])
+2021-11-05 13:17:19,059 :INFO : end2end_framework.pytest_learning.base_class :dataLoad[2]
+2021-11-05 13:19:52,825 :INFO : end2end_framework.pytest_learning.base_class :dataLoad[0])
+2021-11-05 13:19:52,825 :INFO : end2end_framework.pytest_learning.base_class :dataLoad[2]
